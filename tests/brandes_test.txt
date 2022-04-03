@@ -1,0 +1,9 @@
+https://illinois.edu/ https://illinois.edu/index.html
+https://illinois.edu/ https://directory.illinois.edu/search
+https://illinois.edu/index.html https://illinois.edu/index.html
+https://illinois.edu/index.html https://directory.illinois.edu/search
+https://directory.illinois.edu/search https://illinois.edu/
+https://directory.illinois.edu/search https://illinois.edu/about/facts.html
+https://directory.illinois.edu/search https://publicaffairs.illinois.edu/services/social-media/verified-accounts/
+https://illinois.edu/about/facts.html https://publicaffairs.illinois.edu/services/social-media/verified-accounts/
+https://publicaffairs.illinois.edu/services/social-media/verified-accounts/ https://directory.illinois.edu/search
